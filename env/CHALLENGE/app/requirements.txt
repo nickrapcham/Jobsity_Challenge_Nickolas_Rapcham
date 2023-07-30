@@ -1,0 +1,9 @@
+# requirements.txt #
+
+flask
+pandas
+sqlalchemy
+mysql-connector-python
+requests
+faker
+pip
